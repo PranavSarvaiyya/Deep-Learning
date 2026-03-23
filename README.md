@@ -3,7 +3,7 @@
 ANN(Artifitial Neural Network)-
 Built and compared deep learning models for both binary and multi-class classification tasks using TensorFlow/Keras.
 
-1. Developed a 5-layer ANN model for Heart Failure Prediction using ReLU activation, achieving strong classification performance.
+1. Developed a 5-layer ANN model for Heart Failure Prediction using ReLU activation, achieving an accuracy of approximately 86.1%.
 
 2. Performed comparative analysis on the Car Evaluation dataset, where a Multi-Layer ANN achieved 95.6% accuracy, significantly outperforming a linear Perceptron (63.8%), highlighting the importance of non-linear modeling.
 
