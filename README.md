@@ -22,3 +22,17 @@ Worked with the MNIST dataset and understood how image data is structured (28×2
 
 * Evaluated and compared all models using accuracy, loss graphs, and visual analysis to understand model behavior and overfitting.
 
+## RNN(Reccurent Neural Network)-
+Worked with a text dataset (quotes) and understood how sequential data is structured for next-word prediction.
+  
+* Applied key preprocessing steps like text cleaning (removing punctuation/digits), tokenization, and sequence generation.
+  
+* Converted text into numerical format using tokenizers and applied padding to make input sequences equal length.
+  
+* Built and compared two models (LSTM and GRU) to learn how RNN-based architectures handle sequential data.
+  
+* Used techniques like Dropout and L2 regularization to reduce overfitting and improve generalization.
+  
+* Evaluated models using accuracy and loss; observed that GRU performed slightly better (97.95%) than LSTM (97.88%).
+  
+* Learned how model design impacts performance in sequence prediction tasks.
